@@ -1,4 +1,4 @@
-.Download_tsv_and_analyze/ipynb_checkpoints/*
-.Download_tsv_and_analyze/idea/*
-.DockerDashApp/idea/*
+Download_tsv_and_analyze/ipynb_checkpoints/*
+Download_tsv_and_analyze/idea/*
+./DockerDashApp/idea/*
 .idea/*
