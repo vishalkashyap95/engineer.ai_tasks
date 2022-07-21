@@ -1,0 +1,2 @@
+The question is not clear.
+At-least the output should have contained the rows from input table.
